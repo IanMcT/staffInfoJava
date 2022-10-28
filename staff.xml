@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+      <employee>
+         <firstName>Mike</firstName>
+         <lastName>Holmes</lastName>
+         <role>Site Supervisor</role>
+         <wage>21.55</wage>
+      </employee>
+      <employee>
+         <firstName>Karen</firstName>
+         <lastName>Laine</lastName>
+         <role>Construction Lead</role>
+         <wage>19.0</wage>
+      </employee>
+      <employee>
+         <firstName>Drew</firstName>
+         <lastName>Scott</lastName>
+         <role>Labourer</role>
+         <wage>15.0</wage>
+      </employee>
+      <employee>
+         <firstName>Marjorie</firstName>
+         <lastName>Blue</lastName>
+         <role>Labourer</role>
+         <wage>15.0</wage>
+      </employee>
+      <employee>
+         <firstName>Karen</firstName>
+         <lastName>Smith</lastName>
+         <role>Site Supervisor</role>
+         <wage>21.55</wage>
+      </employee>
+      <employee>
+         <firstName>Andrea</firstName>
+         <lastName>Vargehese</lastName>
+         <role>Construction Lead</role>
+         <wage>19.0</wage>
+      </employee>
+      <employee>
+         <firstName>Bob</firstName>
+         <lastName>Viola</lastName>
+         <role>Labourer</role>
+         <wage>15.0</wage>
+      </employee>
+</employees>
